@@ -10,6 +10,17 @@
       },
       "content": [],
       "children": []
+    },
+    {
+      "id": "5ad24ea4-15d8-4dca-b48f-eecf0b7e9172",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
     }
   ]
 }
