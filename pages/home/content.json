@@ -12,7 +12,50 @@
       "children": []
     },
     {
-      "id": "5ad24ea4-15d8-4dca-b48f-eecf0b7e9172",
+      "id": "e51f6d1f-b052-4898-8c07-4c6f2c74e58a",
+      "type": "columnList",
+      "props": {},
+      "children": [
+        {
+          "id": "40907c0e-1c66-40f8-bbf2-695ef01fa084",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "138b672d-c7d4-4bf7-8857-8df8ebf47172",
+              "type": "pageLink",
+              "props": {
+                "pageId": "ba5d6ccc-7a2b-49e1-8e02-e6995d48ec08",
+                "pageTitle": "Resources"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "219bab20-7e88-4643-acd1-624a49d91691",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "6c2dd000-80fb-44e2-aa2d-823af6736e0b",
+              "type": "pageLink",
+              "props": {
+                "pageId": "fdfa95c0-3b42-45ad-afb7-c5b4a4aa3f71",
+                "pageTitle": "Syllabus"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56e1eb10-31ee-44a3-8c13-aab6a3d2ea7b",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
