@@ -51,11 +51,29 @@
               "children": []
             }
           ]
+        },
+        {
+          "id": "72b48c53-dc89-42a8-8550-f62ef97f7fad",
+          "type": "column",
+          "props": {
+            "width": 1
+          },
+          "children": [
+            {
+              "id": "1da01b93-ab01-4243-ab79-bc16bd9ec0a4",
+              "type": "pageLink",
+              "props": {
+                "pageId": "259ea7ad-aa6f-493a-89a9-0316d7e44642",
+                "pageTitle": "Assignments"
+              },
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "id": "56e1eb10-31ee-44a3-8c13-aab6a3d2ea7b",
+      "id": "c3d7ace2-10e7-46da-9318-221d1a6acbbc",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
