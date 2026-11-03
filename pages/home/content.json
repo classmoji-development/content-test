@@ -4,8 +4,8 @@
       "id": "p1",
       "type": "paragraph",
       "props": {
-        "textColor": "default",
         "backgroundColor": "default",
+        "textColor": "default",
         "textAlignment": "left"
       },
       "content": [],
@@ -74,6 +74,164 @@
     },
     {
       "id": "c3d7ace2-10e7-46da-9318-221d1a6acbbc",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "e17a1876-3fd9-479f-89ac-e132e713ba91",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "this is a ",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "cc3c263d-4c3a-4055-b8c4-cd4bb1c5df82",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "test",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "e6d3a778-4898-4581-8a89-9c96ab24c558",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    },
+    {
+      "id": "cd3fbc29-8e64-4319-bce8-8276bada54c1",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "asdfli",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "2dcd578e-75db-400c-b894-e6d71bb73717",
+      "type": "bulletListItem",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "asdfa",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "7c08bed3-6237-49b3-be93-5e966c978678",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "asdf",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "f4933bca-1415-4171-b96f-42e71bfe8596",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "asd",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "3354fa8c-81a8-44c6-b6e9-b2318ca892f3",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "fasd",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "d7a07082-f5f2-4ce8-b6c2-69d4a8cb37ee",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "f",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "95e8f5a1-3eac-41f2-94e8-4b54da7c3e08",
       "type": "paragraph",
       "props": {
         "backgroundColor": "default",
