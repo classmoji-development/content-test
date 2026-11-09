@@ -2,7 +2,11 @@
   "repositories": {},
   "general": {
     "pages": [
-      "home"
+      "home",
+      "syllabus",
+      "resources",
+      "assignments",
+      "octokit-5-prod-check"
     ],
     "slides": []
   }
